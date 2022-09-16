@@ -63,3 +63,15 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)-->
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Gulzar-khan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulzar-khan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+<p align="center">
+    <a href="https://github.com/Manojpatil123/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manojpatil123 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gulzar-khan&theme=black-ice&count_private=true&include_all_commits=true&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Gulzar-khan/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Gulzar-khan">
+</a>
+<a href="https://github.com/Manojpatil123?tab=followers"><img src="https://img.shields.io/github/followers/Gulzar-khan?label=Followers&style=social" alt="GitHub Badge"></a>
