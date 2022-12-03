@@ -2,7 +2,7 @@
 - 👀 I’m interested in using Data Science for better world...
 - 🌱 I’m currently learning Data Science...
 - 📫 My Portfolio- <a href="https://gulzar-khan.github.io/" target="_blank">Click Here</a>
-- 📫 My terabyte certificate- <a href="https://triplebyte.com/tb/gulzar-khan-t18pzth/certificate" target="_blank">Click Here</a> 
+- 📫 My triplebyte certificate- <a href="https://triplebyte.com/tb/gulzar-khan-t18pzth/certificate" target="_blank">Click Here</a> 
 - 📫 My Data Science certificate- <a href="https://learn.almabetter.com/certificates/scehlkuvgo" target="_blank">Click Here</a>
 - 📫 My Hackerrank Badges- <a href="https://www.hackerrank.com/gulzarkhan9980?hr_r=1" target="_blank">Click Here</a>
 
