@@ -7,7 +7,7 @@
 - 📫 My Hackerrank Badges- <a href="https://www.hackerrank.com/gulzarkhan9980?hr_r=1" target="_blank">Click Here</a>
 
 - 💞️ I’m looking to collaborate on ML project...
-- 📫 How to reach me Gulzarkhan9980@gmail.com
+- 📫 How to reach me- Gulzarkhan9980@gmail.com
 <!---
 
 Gulzar-khan/Gulzar-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
